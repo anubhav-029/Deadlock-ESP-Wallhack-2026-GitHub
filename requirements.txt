@@ -1,0 +1,7 @@
+Pillow
+colorama
+mouse
+keyboard
+numpy
+pyautogui
+pygame
